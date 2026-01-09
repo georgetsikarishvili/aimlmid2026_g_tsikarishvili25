@@ -7,7 +7,7 @@ This project analyzes a dataset extracted from the "aiml_midterm" graph.
 The goal is to calculate Pearson's correlation coefficient to determine 
 the strength of the linear relationship between the X and Y variables.
 
-## The Data
+### The Data
 The following 8 data points were extracted from the graph:
 
 | X Coordinate | Y Coordinate |
@@ -21,16 +21,16 @@ The following 8 data points were extracted from the graph:
 | 7.40 | 7.30 |
 | 9.80 | 8.90 |
 
-## Results
+### Results
 * **Pearson's Correlation Coefficient (r):** 0.9994
 * **Interpretation:** There is a near-perfect positive linear relationship between X and Y.
 
-## Visualization
+### Visualization
 Below is the scatter plot generated from the data, including a trendline.
 
 ![Scatter Plot of Data](graph.png)
 
-## Python Solution
+### Python Solution
 The following script was used to calculate the coefficient and generate the plot:
 
 ```python
