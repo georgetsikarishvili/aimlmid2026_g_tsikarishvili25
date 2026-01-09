@@ -5,7 +5,8 @@ AI and ML for Cybersecurity  - Midterm Exam
 # 1. Pearson Correlation Analysis
 
 This project analyzes a dataset extracted from the "aiml_midterm" graph.
-The goal is to calculate Pearson's correlation coefficient to determine the strength of the linear relationship between the X and Y variables.
+The goal is to calculate Pearson's correlation coefficient to determine 
+the strength of the linear relationship between the X and Y variables.
 
 # The Data
 The following 8 data points were extracted from the graph:
