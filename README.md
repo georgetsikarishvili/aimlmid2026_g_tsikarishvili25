@@ -1,7 +1,6 @@
 # aimlmid2026_g_tsikarishvili25
 AI and ML for Cybersecurity  - Midterm Exam
 
-```markdown
 # 1. Pearson Correlation Analysis
 
 This project analyzes a dataset extracted from the "aiml_midterm" graph.
